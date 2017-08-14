@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papergrapefruit/Flashcard-Generator.git"
+  },
+  "author": "papergrapefruit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papergrapefruit/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/papergrapefruit/Flashcard-Generator#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "clear": "0.0.1",
+    "inquirer": "^3.2.1",
+    "minimist": "^1.2.0"
+  }
+}
